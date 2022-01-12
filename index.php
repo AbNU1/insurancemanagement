@@ -7,7 +7,7 @@ Life Insurance
 <body>
 <link href = "policy/registration.css" type = "text/css" rel = "stylesheet" />    
 <div class="title">
-<h1><center>Life Insurance Corporation of VIT</center></h1>
+<h1><center>Life Insurance Corporation of VVCE</center></h1>
 </div>
 <div class="links">
 <div class="subtitle">
